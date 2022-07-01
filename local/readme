@@ -1,0 +1,2 @@
+#this program works to send value about the number of people(recognized by opencv)
+#it sends data to aws for ubuntu with apache php server
